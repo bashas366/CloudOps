@@ -1,2 +1,15 @@
-# CloudOps
-CloudOps Status page
+# CloudOps Status
+Current status
+
+Team 
+Manager : John
+Members : Neeraj, Ramesh, Basha
+
+Monitorin: 
+Grafana 
+
+Cloud:
+Azure 
+
+
+
